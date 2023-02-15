@@ -9,7 +9,7 @@ Public Class BusinessClass
     ''' <returns>メッセージ</returns>
     ''' <remarks></remarks>
     Public Overridable Function GetMessage() As String
-        Return Me.GetType().Name
+        Return Me.GetType().Name & "2023-02-15 k-konzo"
     End Function
 
 End Class
