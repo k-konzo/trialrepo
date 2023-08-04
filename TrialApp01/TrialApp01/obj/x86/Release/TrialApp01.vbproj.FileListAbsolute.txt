@@ -1,8 +1,0 @@
-C:\Users\Admin\source\repos\trialrepo\TrialApp01\TrialApp01\bin\Release\TrialApp01.exe
-C:\Users\Admin\source\repos\trialrepo\TrialApp01\TrialApp01\bin\Release\TrialApp01.pdb
-C:\Users\Admin\source\repos\trialrepo\TrialApp01\TrialApp01\bin\Release\TrialApp01.xml
-C:\Users\Admin\source\repos\trialrepo\TrialApp01\TrialApp01\obj\x86\Release\TrialApp01.vbproj.GenerateResource.Cache
-C:\Users\Admin\source\repos\trialrepo\TrialApp01\TrialApp01\obj\x86\Release\TrialApp01.exe
-C:\Users\Admin\source\repos\trialrepo\TrialApp01\TrialApp01\obj\x86\Release\TrialApp01.xml
-C:\Users\Admin\source\repos\trialrepo\TrialApp01\TrialApp01\obj\x86\Release\TrialApp01.pdb
-C:\Users\Admin\source\repos\trialrepo\TrialApp01\TrialApp01\obj\x86\Release\TrialApp01.Resources.resources
