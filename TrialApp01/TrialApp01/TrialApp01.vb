@@ -8,7 +8,12 @@ Module TrialApp01
     ''' </summary>
     ''' <remarks></remarks>
     Sub Main()
-        Console.WriteLine((New BusinessClass).GetMessage)
+        With New BusinessClass
+            Console.WriteLine(.GetMessage & Environment.NewLine & .GetToday.ToString("yyyy-MM-dd"))
+        End With
+
+        Call Console.ReadLine()
+
     End Sub
 
 End Module
